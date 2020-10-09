@@ -82,7 +82,8 @@ body {
   color: black;
 }
 .card .info .social {
-  margin-top: 45px;
+  margin-top: 30px;
+  margin-bottom: 25px;
 }
 .card .info .social a {
   padding: 0 5px;
