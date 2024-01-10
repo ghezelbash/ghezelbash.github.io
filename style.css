@@ -102,7 +102,7 @@ body {
     font-family: 'Lobster', sans-serif;
     font-size: 300%;
     margin-top: -8%;
-    background: -webkit-linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    background: -webkit-linear-gradient(43deg, #d0b641 0%, #6250c8 46%, #f38eee 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     /* color: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%); */
